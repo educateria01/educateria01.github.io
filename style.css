@@ -291,7 +291,7 @@ transition: .5s;
 transform: rotateY(360deg);
 color: red;
 }
-@media (max-width: 320px) and (max-width:479)
+@media (max-width:320px) and (max-width:479px)
 {
 
 .container
@@ -312,7 +312,7 @@ color: red;
 
 
 }
-@media (min-width: 481) and (max-width: 767px)
+@media (min-width:481px) and (max-width:767px)
 {
 
 .container
