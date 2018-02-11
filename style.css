@@ -308,18 +308,11 @@ color: red;
 	width: calc(50% - 20px);
 	margin-bottom: 20px;
 	}
-	#foot
-{
-	height: 100px;
-	width: 100%;
-	background-color: black;
-	opacity: .9;
 
-}
 
 
 }
-@media (max-width: 767px)
+@media (min-width: 481) and (max-width: 767px)
 {
 
 .container
